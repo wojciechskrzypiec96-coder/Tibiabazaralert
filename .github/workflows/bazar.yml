@@ -29,7 +29,15 @@ jobs:
         env:
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
         run: python check_bazar.py
-
+        
+      - name: Test Discord
+        env:
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+        run: |
+          curl -H "Content-Type: application/json" \
+          -d '{"content":"🟢 TEST — Tibia Bazar Monitor działa poprawnie!"}' \
+          "$DISCORD_WEBHOOK_URL"
+          
       - name: Zapisz aktualną listę
         run: |
           git config user.name "Tibia Bazar Bot"
