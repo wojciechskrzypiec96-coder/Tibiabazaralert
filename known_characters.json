@@ -24,6 +24,11 @@
     "242 MS",
     "72 points - Login to buy"
   ],
+  "Hurgand": [
+    "Hurgand",
+    "210 MS",
+    "66 points - Login to buy"
+  ],
   "Ju Ar Gej": [
     "Ju Ar Gej",
     "212 ED",
@@ -34,18 +39,13 @@
     "211 Sorc",
     "66 points - Login to buy"
   ],
-  "Hurgand": [
-    "Hurgand",
-    "210 MS",
-    "66 points - Login to buy"
-  ],
   "Exar Koren": [
     "Exar Koren",
     "210 MS",
     "66 points - Login to buy"
   ],
-  "Jaszo": [
-    "Jaszo",
+  "Dorado": [
+    "Dorado",
     "206 EK",
     "61 points - Login to buy"
   ],
@@ -74,6 +74,11 @@
     "207 Knight",
     "61 points - Login to buy"
   ],
+  "Jaszo": [
+    "Jaszo",
+    "206 EK",
+    "61 points - Login to buy"
+  ],
   "Xavis": [
     "Xavis",
     "207 EK",
@@ -82,11 +87,6 @@
   "Lustigakurren": [
     "Lustigakurren",
     "206 MS",
-    "61 points - Login to buy"
-  ],
-  "Dorado": [
-    "Dorado",
-    "206 EK",
     "61 points - Login to buy"
   ],
   "Tufcio": [
@@ -119,19 +119,9 @@
     "175 MS",
     "35 points - Login to buy"
   ],
-  "Violentshinoda": [
-    "Violentshinoda",
+  "Mini Ogar": [
+    "Mini Ogar",
     "175 Knight",
-    "35 points - Login to buy"
-  ],
-  "Ziggy": [
-    "Ziggy",
-    "175 EK",
-    "35 points - Login to buy"
-  ],
-  "Cycek": [
-    "Cycek",
-    "175 EK",
     "35 points - Login to buy"
   ],
   "Arcy Mistrz": [
@@ -139,13 +129,18 @@
     "175 Sorc",
     "35 points - Login to buy"
   ],
-  "Mini Ogar": [
-    "Mini Ogar",
+  "Cycek": [
+    "Cycek",
+    "175 EK",
+    "35 points - Login to buy"
+  ],
+  "Violentshinoda": [
+    "Violentshinoda",
     "175 Knight",
     "35 points - Login to buy"
   ],
-  "Vo Nada": [
-    "Vo Nada",
+  "Ziggy": [
+    "Ziggy",
     "175 EK",
     "35 points - Login to buy"
   ],
