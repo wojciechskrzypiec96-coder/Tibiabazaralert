@@ -14,24 +14,14 @@
     "257 MS",
     "83 points - Login to buy"
   ],
-  "Jozek": [
-    "Jozek",
-    "250 EK",
-    "77 points - Login to buy"
-  ],
   "Rutek": [
     "Rutek",
     "242 MS",
     "72 points - Login to buy"
   ],
-  "Ju Ar Gej": [
-    "Ju Ar Gej",
-    "212 ED",
-    "66 points - Login to buy"
-  ],
-  "Ciec Maliniarz": [
-    "Ciec Maliniarz",
-    "211 Sorc",
+  "Exar Koren": [
+    "Exar Koren",
+    "210 MS",
     "66 points - Login to buy"
   ],
   "Hurgand": [
@@ -39,14 +29,29 @@
     "210 MS",
     "66 points - Login to buy"
   ],
-  "Exar Koren": [
-    "Exar Koren",
-    "210 MS",
+  "Ciec Maliniarz": [
+    "Ciec Maliniarz",
+    "211 Sorc",
     "66 points - Login to buy"
   ],
-  "Wowis": [
-    "Wowis",
-    "209 Paladin",
+  "Ju Ar Gej": [
+    "Ju Ar Gej",
+    "212 ED",
+    "66 points - Login to buy"
+  ],
+  "Dorado": [
+    "Dorado",
+    "206 EK",
+    "61 points - Login to buy"
+  ],
+  "Jaszo": [
+    "Jaszo",
+    "206 EK",
+    "61 points - Login to buy"
+  ],
+  "Sven Salafin": [
+    "Sven Salafin",
+    "207 Knight",
     "61 points - Login to buy"
   ],
   "Sir Master Sorcerer": [
@@ -69,29 +74,14 @@
     "207 EK",
     "61 points - Login to buy"
   ],
-  "Sven Salafin": [
-    "Sven Salafin",
-    "207 Knight",
-    "61 points - Login to buy"
-  ],
   "Xavis": [
     "Xavis",
     "207 EK",
     "61 points - Login to buy"
   ],
-  "Jaszo": [
-    "Jaszo",
-    "206 EK",
-    "61 points - Login to buy"
-  ],
   "Lustigakurren": [
     "Lustigakurren",
     "206 MS",
-    "61 points - Login to buy"
-  ],
-  "Dorado": [
-    "Dorado",
-    "206 EK",
     "61 points - Login to buy"
   ],
   "Tufcio": [
@@ -109,25 +99,15 @@
     "208 Druid",
     "61 points - Login to buy"
   ],
+  "Wowis": [
+    "Wowis",
+    "209 Paladin",
+    "61 points - Login to buy"
+  ],
   "Soulseeker": [
     "Soulseeker",
     "214 Knight",
     "55 points - Login to buy"
-  ],
-  "Violentshinoda": [
-    "Violentshinoda",
-    "175 Knight",
-    "35 points - Login to buy"
-  ],
-  "Ziggy": [
-    "Ziggy",
-    "175 EK",
-    "35 points - Login to buy"
-  ],
-  "Arcy Mistrz": [
-    "Arcy Mistrz",
-    "175 Sorc",
-    "35 points - Login to buy"
   ],
   "Maly Lulus Ms": [
     "Maly Lulus Ms",
@@ -137,6 +117,21 @@
   "Mini Ogar": [
     "Mini Ogar",
     "175 Knight",
+    "35 points - Login to buy"
+  ],
+  "Arcy Mistrz": [
+    "Arcy Mistrz",
+    "175 Sorc",
+    "35 points - Login to buy"
+  ],
+  "Violentshinoda": [
+    "Violentshinoda",
+    "175 Knight",
+    "35 points - Login to buy"
+  ],
+  "Ziggy": [
+    "Ziggy",
+    "175 EK",
     "35 points - Login to buy"
   ],
   "Old Keba": [
