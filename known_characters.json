@@ -1,12 +1,17 @@
 {
+  "Osinio": [
+    "Osinio",
+    "277 RP",
+    "159 points - Login to buy"
+  ],
+  "Guardianus": [
+    "Guardianus",
+    "272 MS",
+    "129 points - Login to buy"
+  ],
   "Lucjan": [
     "Lucjan",
     "251 RP",
-    "83 points - Login to buy"
-  ],
-  "Orvis": [
-    "Orvis",
-    "260 ED",
     "83 points - Login to buy"
   ],
   "Dosor": [
@@ -14,19 +19,19 @@
     "257 MS",
     "83 points - Login to buy"
   ],
+  "Orvis": [
+    "Orvis",
+    "260 ED",
+    "83 points - Login to buy"
+  ],
   "Rutek": [
     "Rutek",
     "242 MS",
     "72 points - Login to buy"
   ],
-  "Ju Ar Gej": [
-    "Ju Ar Gej",
-    "212 ED",
-    "66 points - Login to buy"
-  ],
-  "Ciec Maliniarz": [
-    "Ciec Maliniarz",
-    "211 Sorc",
+  "Exar Koren": [
+    "Exar Koren",
+    "210 MS",
     "66 points - Login to buy"
   ],
   "Hurgand": [
@@ -34,9 +39,14 @@
     "210 MS",
     "66 points - Login to buy"
   ],
-  "Exar Koren": [
-    "Exar Koren",
-    "210 MS",
+  "Ciec Maliniarz": [
+    "Ciec Maliniarz",
+    "211 Sorc",
+    "66 points - Login to buy"
+  ],
+  "Ju Ar Gej": [
+    "Ju Ar Gej",
+    "212 ED",
     "66 points - Login to buy"
   ],
   "Lustigakurren": [
@@ -109,6 +119,11 @@
     "214 Knight",
     "55 points - Login to buy"
   ],
+  "Maly Lulus Ms": [
+    "Maly Lulus Ms",
+    "175 MS",
+    "35 points - Login to buy"
+  ],
   "Violentshinoda": [
     "Violentshinoda",
     "175 Knight",
@@ -117,11 +132,6 @@
   "Ziggy": [
     "Ziggy",
     "175 EK",
-    "35 points - Login to buy"
-  ],
-  "Maly Lulus Ms": [
-    "Maly Lulus Ms",
-    "175 MS",
     "35 points - Login to buy"
   ],
   "Old Keba": [
