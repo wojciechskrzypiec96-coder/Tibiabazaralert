@@ -39,9 +39,9 @@
     "210 MS",
     "66 points - Login to buy"
   ],
-  "Wowis": [
-    "Wowis",
-    "209 Paladin",
+  "Lustigakurren": [
+    "Lustigakurren",
+    "206 MS",
     "61 points - Login to buy"
   ],
   "Jaszo": [
@@ -79,11 +79,6 @@
     "207 EK",
     "61 points - Login to buy"
   ],
-  "Lustigakurren": [
-    "Lustigakurren",
-    "206 MS",
-    "61 points - Login to buy"
-  ],
   "Dorado": [
     "Dorado",
     "206 EK",
@@ -104,20 +99,15 @@
     "208 Druid",
     "61 points - Login to buy"
   ],
+  "Wowis": [
+    "Wowis",
+    "209 Paladin",
+    "61 points - Login to buy"
+  ],
   "Soulseeker": [
     "Soulseeker",
     "214 Knight",
     "55 points - Login to buy"
-  ],
-  "Maly Lulus Ms": [
-    "Maly Lulus Ms",
-    "175 MS",
-    "35 points - Login to buy"
-  ],
-  "Arcy Mistrz": [
-    "Arcy Mistrz",
-    "175 Sorc",
-    "35 points - Login to buy"
   ],
   "Violentshinoda": [
     "Violentshinoda",
@@ -127,6 +117,11 @@
   "Ziggy": [
     "Ziggy",
     "175 EK",
+    "35 points - Login to buy"
+  ],
+  "Maly Lulus Ms": [
+    "Maly Lulus Ms",
+    "175 MS",
     "35 points - Login to buy"
   ],
   "Old Keba": [
