@@ -4,6 +4,11 @@
     "277 RP",
     "159 points - Login to buy"
   ],
+  "Fenix": [
+    "Fenix",
+    "257 EK",
+    "149 points - Login to buy"
+  ],
   "Guardianus": [
     "Guardianus",
     "272 MS",
@@ -13,6 +18,11 @@
     "Abusee",
     "278 EK",
     "99 points - Login to buy"
+  ],
+  "Malal": [
+    "Malal",
+    "245 MS",
+    "89 points - Login to buy"
   ],
   "Lucjan": [
     "Lucjan",
@@ -39,19 +49,29 @@
     "210 MS",
     "66 points - Login to buy"
   ],
-  "Exar Koren": [
-    "Exar Koren",
-    "210 MS",
-    "66 points - Login to buy"
-  ],
   "Ciec Maliniarz": [
     "Ciec Maliniarz",
     "211 Sorc",
     "66 points - Login to buy"
   ],
+  "Exar Koren": [
+    "Exar Koren",
+    "210 MS",
+    "66 points - Login to buy"
+  ],
+  "Sir Elder Druid": [
+    "Sir Elder Druid",
+    "208 Druid",
+    "61 points - Login to buy"
+  ],
   "Wowis": [
     "Wowis",
     "209 Paladin",
+    "61 points - Login to buy"
+  ],
+  "Dev Onica": [
+    "Dev Onica",
+    "208 Druid",
     "61 points - Login to buy"
   ],
   "Jaszo": [
@@ -69,9 +89,9 @@
     "208 Sorc",
     "61 points - Login to buy"
   ],
-  "Sir Elder Druid": [
-    "Sir Elder Druid",
-    "208 Druid",
+  "Tufcio": [
+    "Tufcio",
+    "209 Knight",
     "61 points - Login to buy"
   ],
   "Sir Elite Knight": [
@@ -99,19 +119,9 @@
     "206 EK",
     "61 points - Login to buy"
   ],
-  "Tufcio": [
-    "Tufcio",
-    "209 Knight",
-    "61 points - Login to buy"
-  ],
   "Geneusz": [
     "Geneusz",
     "208 Knight",
-    "61 points - Login to buy"
-  ],
-  "Dev Onica": [
-    "Dev Onica",
-    "208 Druid",
     "61 points - Login to buy"
   ],
   "Soulseeker": [
