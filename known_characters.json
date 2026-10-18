@@ -1,9 +1,4 @@
 {
-  "Osinio": [
-    "Osinio",
-    "277 RP",
-    "159 points - Login to buy"
-  ],
   "Guardianus": [
     "Guardianus",
     "272 MS",
@@ -34,13 +29,13 @@
     "242 MS",
     "72 points - Login to buy"
   ],
-  "Hurgand": [
-    "Hurgand",
+  "Exar Koren": [
+    "Exar Koren",
     "210 MS",
     "66 points - Login to buy"
   ],
-  "Exar Koren": [
-    "Exar Koren",
+  "Hurgand": [
+    "Hurgand",
     "210 MS",
     "66 points - Login to buy"
   ],
@@ -49,9 +44,9 @@
     "211 Sorc",
     "66 points - Login to buy"
   ],
-  "Wowis": [
-    "Wowis",
-    "209 Paladin",
+  "Lustigakurren": [
+    "Lustigakurren",
+    "206 MS",
     "61 points - Login to buy"
   ],
   "Jaszo": [
@@ -89,11 +84,6 @@
     "207 EK",
     "61 points - Login to buy"
   ],
-  "Lustigakurren": [
-    "Lustigakurren",
-    "206 MS",
-    "61 points - Login to buy"
-  ],
   "Dorado": [
     "Dorado",
     "206 EK",
@@ -112,6 +102,11 @@
   "Dev Onica": [
     "Dev Onica",
     "208 Druid",
+    "61 points - Login to buy"
+  ],
+  "Wowis": [
+    "Wowis",
+    "209 Paladin",
     "61 points - Login to buy"
   ],
   "Soulseeker": [
