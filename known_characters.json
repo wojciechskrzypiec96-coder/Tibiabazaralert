@@ -1,4 +1,9 @@
 {
+  "Yaga": [
+    "Yaga",
+    "254 EK",
+    "149 points - Login to buy"
+  ],
   "Guardianus": [
     "Guardianus",
     "272 MS",
@@ -9,14 +14,14 @@
     "251 RP",
     "76 points - Login to buy"
   ],
-  "Dosor": [
-    "Dosor",
-    "257 MS",
-    "76 points - Login to buy"
-  ],
   "Orvis": [
     "Orvis",
     "260 ED",
+    "76 points - Login to buy"
+  ],
+  "Dosor": [
+    "Dosor",
+    "257 MS",
     "76 points - Login to buy"
   ],
   "Rutek": [
@@ -39,9 +44,19 @@
     "211 Sorc",
     "61 points - Login to buy"
   ],
-  "Dorado": [
-    "Dorado",
-    "206 EK",
+  "La Masia": [
+    "La Masia",
+    "233 MS",
+    "59 points - Login to buy"
+  ],
+  "Tufcio": [
+    "Tufcio",
+    "209 Knight",
+    "56 points - Login to buy"
+  ],
+  "Wowis": [
+    "Wowis",
+    "209 Paladin",
     "56 points - Login to buy"
   ],
   "Jaszo": [
@@ -84,14 +99,9 @@
     "206 MS",
     "56 points - Login to buy"
   ],
-  "Tufcio": [
-    "Tufcio",
-    "209 Knight",
-    "56 points - Login to buy"
-  ],
-  "Geneusz": [
-    "Geneusz",
-    "208 Knight",
+  "Dorado": [
+    "Dorado",
+    "206 EK",
     "56 points - Login to buy"
   ],
   "Dev Onica": [
@@ -99,15 +109,25 @@
     "208 Druid",
     "56 points - Login to buy"
   ],
-  "Wowis": [
-    "Wowis",
-    "209 Paladin",
+  "Geneusz": [
+    "Geneusz",
+    "208 Knight",
     "56 points - Login to buy"
+  ],
+  "Bolero": [
+    "Bolero",
+    "241 RP",
+    "55 points - Login to buy"
   ],
   "Soulseeker": [
     "Soulseeker",
     "214 Knight",
     "51 points - Login to buy"
+  ],
+  "Synek": [
+    "Synek",
+    "249 EK",
+    "41 points - Login to buy"
   ],
   "Maly Lulus Ms": [
     "Maly Lulus Ms",
