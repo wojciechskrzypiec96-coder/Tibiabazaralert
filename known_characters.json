@@ -44,19 +44,9 @@
     "211 Sorc",
     "61 points - Login to buy"
   ],
-  "La Masia": [
-    "La Masia",
-    "233 MS",
-    "59 points - Login to buy"
-  ],
-  "Tufcio": [
-    "Tufcio",
-    "209 Knight",
-    "56 points - Login to buy"
-  ],
-  "Wowis": [
-    "Wowis",
-    "209 Paladin",
+  "Dorado": [
+    "Dorado",
+    "206 EK",
     "56 points - Login to buy"
   ],
   "Jaszo": [
@@ -99,9 +89,14 @@
     "206 MS",
     "56 points - Login to buy"
   ],
-  "Dorado": [
-    "Dorado",
-    "206 EK",
+  "Tufcio": [
+    "Tufcio",
+    "209 Knight",
+    "56 points - Login to buy"
+  ],
+  "Geneusz": [
+    "Geneusz",
+    "208 Knight",
     "56 points - Login to buy"
   ],
   "Dev Onica": [
@@ -109,9 +104,9 @@
     "208 Druid",
     "56 points - Login to buy"
   ],
-  "Geneusz": [
-    "Geneusz",
-    "208 Knight",
+  "Wowis": [
+    "Wowis",
+    "209 Paladin",
     "56 points - Login to buy"
   ],
   "Bolero": [
