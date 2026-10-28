@@ -9,9 +9,9 @@
     "272 MS",
     "119 points - Login to buy"
   ],
-  "Lucjan": [
-    "Lucjan",
-    "251 RP",
+  "Orvis": [
+    "Orvis",
+    "260 ED",
     "76 points - Login to buy"
   ],
   "Dosor": [
@@ -19,23 +19,8 @@
     "257 MS",
     "76 points - Login to buy"
   ],
-  "Orvis": [
-    "Orvis",
-    "260 ED",
-    "76 points - Login to buy"
-  ],
-  "Rutek": [
-    "Rutek",
-    "242 MS",
-    "66 points - Login to buy"
-  ],
   "Exar Koren": [
     "Exar Koren",
-    "210 MS",
-    "61 points - Login to buy"
-  ],
-  "Hurgand": [
-    "Hurgand",
     "210 MS",
     "61 points - Login to buy"
   ],
@@ -44,18 +29,48 @@
     "211 Sorc",
     "61 points - Login to buy"
   ],
+  "Hurgand": [
+    "Hurgand",
+    "210 MS",
+    "61 points - Login to buy"
+  ],
+  "Wowis": [
+    "Wowis",
+    "209 Paladin",
+    "56 points - Login to buy"
+  ],
+  "Dev Onica": [
+    "Dev Onica",
+    "208 Druid",
+    "56 points - Login to buy"
+  ],
+  "Geneusz": [
+    "Geneusz",
+    "208 Knight",
+    "56 points - Login to buy"
+  ],
+  "Tufcio": [
+    "Tufcio",
+    "209 Knight",
+    "56 points - Login to buy"
+  ],
   "Lustigakurren": [
     "Lustigakurren",
     "206 MS",
     "56 points - Login to buy"
   ],
-  "Jaszo": [
-    "Jaszo",
-    "206 EK",
+  "Xavis": [
+    "Xavis",
+    "207 EK",
     "56 points - Login to buy"
   ],
-  "Sir Master Sorcerer": [
-    "Sir Master Sorcerer",
+  "Karczon": [
+    "Karczon",
+    "207 EK",
+    "56 points - Login to buy"
+  ],
+  "Sir Elite Knight": [
+    "Sir Elite Knight",
     "208 Sorc",
     "56 points - Login to buy"
   ],
@@ -64,39 +79,14 @@
     "208 Druid",
     "56 points - Login to buy"
   ],
-  "Sir Elite Knight": [
-    "Sir Elite Knight",
+  "Sir Master Sorcerer": [
+    "Sir Master Sorcerer",
     "208 Sorc",
     "56 points - Login to buy"
   ],
-  "Karczon": [
-    "Karczon",
-    "207 EK",
-    "56 points - Login to buy"
-  ],
-  "Xavis": [
-    "Xavis",
-    "207 EK",
-    "56 points - Login to buy"
-  ],
-  "Tufcio": [
-    "Tufcio",
-    "209 Knight",
-    "56 points - Login to buy"
-  ],
-  "Geneusz": [
-    "Geneusz",
-    "208 Knight",
-    "56 points - Login to buy"
-  ],
-  "Dev Onica": [
-    "Dev Onica",
-    "208 Druid",
-    "56 points - Login to buy"
-  ],
-  "Wowis": [
-    "Wowis",
-    "209 Paladin",
+  "Jaszo": [
+    "Jaszo",
+    "206 EK",
     "56 points - Login to buy"
   ],
   "Soulseeker": [
