@@ -1,107 +1,112 @@
 {
+  "Konarski Magik": [
+    "Konarski Magik",
+    "298 ED",
+    "145 points - Login to buy"
+  ],
   "Yaga": [
     "Yaga",
     "254 EK",
-    "149 points - Login to buy"
+    "127 points - Login to buy"
   ],
   "Guardianus": [
     "Guardianus",
     "272 MS",
-    "119 points - Login to buy"
+    "101 points - Login to buy"
   ],
   "Orvis": [
     "Orvis",
     "260 ED",
-    "76 points - Login to buy"
+    "65 points - Login to buy"
   ],
   "Dosor": [
     "Dosor",
     "257 MS",
-    "76 points - Login to buy"
+    "65 points - Login to buy"
+  ],
+  "Maurycy": [
+    "Maurycy",
+    "264 ED",
+    "55 points - Login to buy"
   ],
   "Bukson Rp": [
     "Bukson Rp",
     "230 RP",
-    "65 points - Login to buy"
+    "55 points - Login to buy"
   ],
   "Ciec Maliniarz": [
     "Ciec Maliniarz",
     "211 Sorc",
-    "61 points - Login to buy"
+    "52 points - Login to buy"
   ],
   "Exar Koren": [
     "Exar Koren",
     "210 MS",
-    "61 points - Login to buy"
-  ],
-  "Idlemisio": [
-    "Idlemisio",
-    "232 MS",
-    "59 points - Login to buy"
-  ],
-  "Wowis": [
-    "Wowis",
-    "209 Paladin",
-    "56 points - Login to buy"
-  ],
-  "Dev Onica": [
-    "Dev Onica",
-    "208 Druid",
-    "56 points - Login to buy"
+    "52 points - Login to buy"
   ],
   "Geneusz": [
     "Geneusz",
     "208 Knight",
-    "56 points - Login to buy"
+    "48 points - Login to buy"
   ],
   "Tufcio": [
     "Tufcio",
     "209 Knight",
-    "56 points - Login to buy"
+    "48 points - Login to buy"
   ],
   "Lustigakurren": [
     "Lustigakurren",
     "206 MS",
-    "56 points - Login to buy"
+    "48 points - Login to buy"
   ],
   "Xavis": [
     "Xavis",
     "207 EK",
-    "56 points - Login to buy"
+    "48 points - Login to buy"
   ],
   "Karczon": [
     "Karczon",
     "207 EK",
-    "56 points - Login to buy"
+    "48 points - Login to buy"
   ],
   "Sir Elite Knight": [
     "Sir Elite Knight",
     "208 Sorc",
-    "56 points - Login to buy"
+    "48 points - Login to buy"
   ],
   "Sir Elder Druid": [
     "Sir Elder Druid",
     "208 Druid",
-    "56 points - Login to buy"
+    "48 points - Login to buy"
   ],
   "Sir Master Sorcerer": [
     "Sir Master Sorcerer",
     "208 Sorc",
-    "56 points - Login to buy"
+    "48 points - Login to buy"
+  ],
+  "Dev Onica": [
+    "Dev Onica",
+    "208 Druid",
+    "48 points - Login to buy"
+  ],
+  "Wowis": [
+    "Wowis",
+    "209 Paladin",
+    "48 points - Login to buy"
   ],
   "Soulseeker": [
     "Soulseeker",
     "214 Knight",
-    "51 points - Login to buy"
+    "43 points - Login to buy"
   ],
   "Maly Lulus Ms": [
     "Maly Lulus Ms",
     "175 MS",
-    "32 points - Login to buy"
+    "27 points - Login to buy"
   ],
   "Old Keba": [
     "Old Keba",
     "177 MS",
-    "28 points - Login to buy"
+    "24 points - Login to buy"
   ]
 }
