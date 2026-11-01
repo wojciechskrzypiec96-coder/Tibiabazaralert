@@ -4,11 +4,6 @@
     "298 ED",
     "145 points - Login to buy"
   ],
-  "Yaga": [
-    "Yaga",
-    "254 EK",
-    "127 points - Login to buy"
-  ],
   "Guardianus": [
     "Guardianus",
     "272 MS",
@@ -29,20 +24,25 @@
     "264 ED",
     "55 points - Login to buy"
   ],
-  "Bukson Rp": [
-    "Bukson Rp",
-    "230 RP",
-    "55 points - Login to buy"
+  "Exar Koren": [
+    "Exar Koren",
+    "210 MS",
+    "52 points - Login to buy"
   ],
   "Ciec Maliniarz": [
     "Ciec Maliniarz",
     "211 Sorc",
     "52 points - Login to buy"
   ],
-  "Exar Koren": [
-    "Exar Koren",
-    "210 MS",
-    "52 points - Login to buy"
+  "Wowis": [
+    "Wowis",
+    "209 Paladin",
+    "48 points - Login to buy"
+  ],
+  "Dev Onica": [
+    "Dev Onica",
+    "208 Druid",
+    "48 points - Login to buy"
   ],
   "Geneusz": [
     "Geneusz",
@@ -52,11 +52,6 @@
   "Tufcio": [
     "Tufcio",
     "209 Knight",
-    "48 points - Login to buy"
-  ],
-  "Lustigakurren": [
-    "Lustigakurren",
-    "206 MS",
     "48 points - Login to buy"
   ],
   "Xavis": [
@@ -84,20 +79,175 @@
     "208 Sorc",
     "48 points - Login to buy"
   ],
-  "Dev Onica": [
-    "Dev Onica",
-    "208 Druid",
-    "48 points - Login to buy"
-  ],
-  "Wowis": [
-    "Wowis",
-    "209 Paladin",
-    "48 points - Login to buy"
+  "Rakowy": [
+    "Rakowy",
+    "211 MS",
+    "44 points - Login to buy"
   ],
   "Soulseeker": [
     "Soulseeker",
     "214 Knight",
     "43 points - Login to buy"
+  ],
+  "Be Like Wuzkowy": [
+    "Be Like Wuzkowy",
+    "211 EK",
+    "41 points - Login to buy"
+  ],
+  "Lecz Sie Sam": [
+    "Lecz Sie Sam",
+    "207 Druid",
+    "41 points - Login to buy"
+  ],
+  "Serwaxx": [
+    "Serwaxx",
+    "201 Knight",
+    "40 points - Login to buy"
+  ],
+  "Testoviron": [
+    "Testoviron",
+    "202 Knight",
+    "40 points - Login to buy"
+  ],
+  "Kurumi": [
+    "Kurumi",
+    "202 Knight",
+    "40 points - Login to buy"
+  ],
+  "Nagasaki": [
+    "Nagasaki",
+    "202 Knight",
+    "40 points - Login to buy"
+  ],
+  "Piko": [
+    "Piko",
+    "202 ED",
+    "40 points - Login to buy"
+  ],
+  "Loopan": [
+    "Loopan",
+    "202 Knight",
+    "40 points - Login to buy"
+  ],
+  "Inga Bunga": [
+    "Inga Bunga",
+    "202 Knight",
+    "40 points - Login to buy"
+  ],
+  "Feliksior": [
+    "Feliksior",
+    "202 RP",
+    "40 points - Login to buy"
+  ],
+  "Hootyea": [
+    "Hootyea",
+    "202 RP",
+    "40 points - Login to buy"
+  ],
+  "Testar": [
+    "Testar",
+    "201 Knight",
+    "40 points - Login to buy"
+  ],
+  "Monna": [
+    "Monna",
+    "201 Knight",
+    "40 points - Login to buy"
+  ],
+  "Mordeczka Wieczoru": [
+    "Mordeczka Wieczoru",
+    "201 Knight",
+    "40 points - Login to buy"
+  ],
+  "Morelka": [
+    "Morelka",
+    "201 Knight",
+    "40 points - Login to buy"
+  ],
+  "Anaelka": [
+    "Anaelka",
+    "201 Knight",
+    "40 points - Login to buy"
+  ],
+  "Vix": [
+    "Vix",
+    "201 Knight",
+    "40 points - Login to buy"
+  ],
+  "Mirabelka": [
+    "Mirabelka",
+    "202 Knight",
+    "40 points - Login to buy"
+  ],
+  "Lechu Oo": [
+    "Lechu Oo",
+    "205 EK",
+    "40 points - Login to buy"
+  ],
+  "Neotan": [
+    "Neotan",
+    "205 EK",
+    "40 points - Login to buy"
+  ],
+  "Modliszka": [
+    "Modliszka",
+    "204 MS",
+    "40 points - Login to buy"
+  ],
+  "Wolny Budda": [
+    "Wolny Budda",
+    "204 Knight",
+    "40 points - Login to buy"
+  ],
+  "Lumaika": [
+    "Lumaika",
+    "203 Knight",
+    "40 points - Login to buy"
+  ],
+  "Suarezon": [
+    "Suarezon",
+    "203 Knight",
+    "40 points - Login to buy"
+  ],
+  "Africano": [
+    "Africano",
+    "203 Knight",
+    "40 points - Login to buy"
+  ],
+  "Green Saiyan": [
+    "Green Saiyan",
+    "203 Knight",
+    "40 points - Login to buy"
+  ],
+  "Miyabi": [
+    "Miyabi",
+    "203 MS",
+    "40 points - Login to buy"
+  ],
+  "Foxter": [
+    "Foxter",
+    "203 RP",
+    "40 points - Login to buy"
+  ],
+  "Error": [
+    "Error",
+    "202 ED",
+    "40 points - Login to buy"
+  ],
+  "Pitbul": [
+    "Pitbul",
+    "202 RP",
+    "40 points - Login to buy"
+  ],
+  "Sir Damian": [
+    "Sir Damian",
+    "202 Knight",
+    "40 points - Login to buy"
+  ],
+  "Serwek": [
+    "Serwek",
+    "201 Sorc",
+    "39 points - Login to buy"
   ],
   "Maly Lulus Ms": [
     "Maly Lulus Ms",
