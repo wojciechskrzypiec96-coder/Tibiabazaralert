@@ -34,24 +34,14 @@
     "211 Sorc",
     "52 points - Login to buy"
   ],
-  "Wowis": [
-    "Wowis",
-    "209 Paladin",
+  "Tufcio": [
+    "Tufcio",
+    "209 Knight",
     "48 points - Login to buy"
   ],
   "Dev Onica": [
     "Dev Onica",
     "208 Druid",
-    "48 points - Login to buy"
-  ],
-  "Geneusz": [
-    "Geneusz",
-    "208 Knight",
-    "48 points - Login to buy"
-  ],
-  "Tufcio": [
-    "Tufcio",
-    "209 Knight",
     "48 points - Login to buy"
   ],
   "Xavis": [
@@ -79,6 +69,16 @@
     "208 Sorc",
     "48 points - Login to buy"
   ],
+  "Wowis": [
+    "Wowis",
+    "209 Paladin",
+    "48 points - Login to buy"
+  ],
+  "Geneusz": [
+    "Geneusz",
+    "208 Knight",
+    "48 points - Login to buy"
+  ],
   "Rakowy": [
     "Rakowy",
     "211 MS",
@@ -99,68 +99,13 @@
     "207 Druid",
     "41 points - Login to buy"
   ],
-  "Serwaxx": [
-    "Serwaxx",
-    "201 Knight",
-    "40 points - Login to buy"
-  ],
-  "Testoviron": [
-    "Testoviron",
-    "202 Knight",
-    "40 points - Login to buy"
-  ],
-  "Kurumi": [
-    "Kurumi",
-    "202 Knight",
-    "40 points - Login to buy"
-  ],
-  "Nagasaki": [
-    "Nagasaki",
-    "202 Knight",
-    "40 points - Login to buy"
-  ],
-  "Piko": [
-    "Piko",
-    "202 ED",
-    "40 points - Login to buy"
-  ],
-  "Loopan": [
-    "Loopan",
-    "202 Knight",
-    "40 points - Login to buy"
-  ],
-  "Inga Bunga": [
-    "Inga Bunga",
-    "202 Knight",
-    "40 points - Login to buy"
-  ],
-  "Feliksior": [
-    "Feliksior",
-    "202 RP",
-    "40 points - Login to buy"
-  ],
-  "Hootyea": [
-    "Hootyea",
-    "202 RP",
-    "40 points - Login to buy"
-  ],
   "Testar": [
     "Testar",
     "201 Knight",
     "40 points - Login to buy"
   ],
-  "Monna": [
-    "Monna",
-    "201 Knight",
-    "40 points - Login to buy"
-  ],
-  "Mordeczka Wieczoru": [
-    "Mordeczka Wieczoru",
-    "201 Knight",
-    "40 points - Login to buy"
-  ],
-  "Morelka": [
-    "Morelka",
+  "Vix": [
+    "Vix",
     "201 Knight",
     "40 points - Login to buy"
   ],
@@ -169,9 +114,64 @@
     "201 Knight",
     "40 points - Login to buy"
   ],
-  "Vix": [
-    "Vix",
+  "Morelka": [
+    "Morelka",
     "201 Knight",
+    "40 points - Login to buy"
+  ],
+  "Mordeczka Wieczoru": [
+    "Mordeczka Wieczoru",
+    "201 Knight",
+    "40 points - Login to buy"
+  ],
+  "Monna": [
+    "Monna",
+    "201 Knight",
+    "40 points - Login to buy"
+  ],
+  "Serwaxx": [
+    "Serwaxx",
+    "201 Knight",
+    "40 points - Login to buy"
+  ],
+  "Hootyea": [
+    "Hootyea",
+    "202 RP",
+    "40 points - Login to buy"
+  ],
+  "Feliksior": [
+    "Feliksior",
+    "202 RP",
+    "40 points - Login to buy"
+  ],
+  "Inga Bunga": [
+    "Inga Bunga",
+    "202 Knight",
+    "40 points - Login to buy"
+  ],
+  "Loopan": [
+    "Loopan",
+    "202 Knight",
+    "40 points - Login to buy"
+  ],
+  "Piko": [
+    "Piko",
+    "202 ED",
+    "40 points - Login to buy"
+  ],
+  "Nagasaki": [
+    "Nagasaki",
+    "202 Knight",
+    "40 points - Login to buy"
+  ],
+  "Kurumi": [
+    "Kurumi",
+    "202 Knight",
+    "40 points - Login to buy"
+  ],
+  "Testoviron": [
+    "Testoviron",
+    "202 Knight",
     "40 points - Login to buy"
   ],
   "Sir Damian": [
@@ -182,11 +182,6 @@
   "Mirabelka": [
     "Mirabelka",
     "202 Knight",
-    "40 points - Login to buy"
-  ],
-  "Pitbul": [
-    "Pitbul",
-    "202 RP",
     "40 points - Login to buy"
   ],
   "Foxter": [
