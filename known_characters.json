@@ -4,11 +4,6 @@
     "298 ED",
     "145 points - Login to buy"
   ],
-  "Guardianus": [
-    "Guardianus",
-    "272 MS",
-    "101 points - Login to buy"
-  ],
   "Orvis": [
     "Orvis",
     "260 ED",
@@ -34,14 +29,24 @@
     "211 Sorc",
     "52 points - Login to buy"
   ],
-  "Tufcio": [
-    "Tufcio",
-    "209 Knight",
+  "Wowis": [
+    "Wowis",
+    "209 Paladin",
     "48 points - Login to buy"
   ],
   "Dev Onica": [
     "Dev Onica",
     "208 Druid",
+    "48 points - Login to buy"
+  ],
+  "Geneusz": [
+    "Geneusz",
+    "208 Knight",
+    "48 points - Login to buy"
+  ],
+  "Tufcio": [
+    "Tufcio",
+    "209 Knight",
     "48 points - Login to buy"
   ],
   "Xavis": [
@@ -67,16 +72,6 @@
   "Sir Master Sorcerer": [
     "Sir Master Sorcerer",
     "208 Sorc",
-    "48 points - Login to buy"
-  ],
-  "Wowis": [
-    "Wowis",
-    "209 Paladin",
-    "48 points - Login to buy"
-  ],
-  "Geneusz": [
-    "Geneusz",
-    "208 Knight",
     "48 points - Login to buy"
   ],
   "Rakowy": [
