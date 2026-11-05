@@ -4,11 +4,6 @@
     "260 ED",
     "65 points - Login to buy"
   ],
-  "Dosor": [
-    "Dosor",
-    "257 MS",
-    "65 points - Login to buy"
-  ],
   "Maurycy": [
     "Maurycy",
     "264 ED",
@@ -24,36 +19,6 @@
     "211 Sorc",
     "52 points - Login to buy"
   ],
-  "Wowis": [
-    "Wowis",
-    "209 Paladin",
-    "48 points - Login to buy"
-  ],
-  "Dev Onica": [
-    "Dev Onica",
-    "208 Druid",
-    "48 points - Login to buy"
-  ],
-  "Geneusz": [
-    "Geneusz",
-    "208 Knight",
-    "48 points - Login to buy"
-  ],
-  "Tufcio": [
-    "Tufcio",
-    "209 Knight",
-    "48 points - Login to buy"
-  ],
-  "Xavis": [
-    "Xavis",
-    "207 EK",
-    "48 points - Login to buy"
-  ],
-  "Sir Elite Knight": [
-    "Sir Elite Knight",
-    "208 Sorc",
-    "48 points - Login to buy"
-  ],
   "Sir Elder Druid": [
     "Sir Elder Druid",
     "208 Druid",
@@ -62,6 +27,36 @@
   "Sir Master Sorcerer": [
     "Sir Master Sorcerer",
     "208 Sorc",
+    "48 points - Login to buy"
+  ],
+  "Sir Elite Knight": [
+    "Sir Elite Knight",
+    "208 Sorc",
+    "48 points - Login to buy"
+  ],
+  "Xavis": [
+    "Xavis",
+    "207 EK",
+    "48 points - Login to buy"
+  ],
+  "Tufcio": [
+    "Tufcio",
+    "209 Knight",
+    "48 points - Login to buy"
+  ],
+  "Geneusz": [
+    "Geneusz",
+    "208 Knight",
+    "48 points - Login to buy"
+  ],
+  "Dev Onica": [
+    "Dev Onica",
+    "208 Druid",
+    "48 points - Login to buy"
+  ],
+  "Wowis": [
+    "Wowis",
+    "209 Paladin",
     "48 points - Login to buy"
   ],
   "Rakowy": [
@@ -84,66 +79,6 @@
     "207 Druid",
     "41 points - Login to buy"
   ],
-  "Testar": [
-    "Testar",
-    "201 Knight",
-    "40 points - Login to buy"
-  ],
-  "Vix": [
-    "Vix",
-    "201 Knight",
-    "40 points - Login to buy"
-  ],
-  "Anaelka": [
-    "Anaelka",
-    "201 Knight",
-    "40 points - Login to buy"
-  ],
-  "Morelka": [
-    "Morelka",
-    "201 Knight",
-    "40 points - Login to buy"
-  ],
-  "Mordeczka Wieczoru": [
-    "Mordeczka Wieczoru",
-    "201 Knight",
-    "40 points - Login to buy"
-  ],
-  "Monna": [
-    "Monna",
-    "201 Knight",
-    "40 points - Login to buy"
-  ],
-  "Serwaxx": [
-    "Serwaxx",
-    "201 Knight",
-    "40 points - Login to buy"
-  ],
-  "Hootyea": [
-    "Hootyea",
-    "202 RP",
-    "40 points - Login to buy"
-  ],
-  "Feliksior": [
-    "Feliksior",
-    "202 RP",
-    "40 points - Login to buy"
-  ],
-  "Inga Bunga": [
-    "Inga Bunga",
-    "202 Knight",
-    "40 points - Login to buy"
-  ],
-  "Loopan": [
-    "Loopan",
-    "202 Knight",
-    "40 points - Login to buy"
-  ],
-  "Piko": [
-    "Piko",
-    "202 ED",
-    "40 points - Login to buy"
-  ],
   "Nagasaki": [
     "Nagasaki",
     "202 Knight",
@@ -152,6 +87,71 @@
   "Kurumi": [
     "Kurumi",
     "202 Knight",
+    "40 points - Login to buy"
+  ],
+  "Piko": [
+    "Piko",
+    "202 ED",
+    "40 points - Login to buy"
+  ],
+  "Loopan": [
+    "Loopan",
+    "202 Knight",
+    "40 points - Login to buy"
+  ],
+  "Inga Bunga": [
+    "Inga Bunga",
+    "202 Knight",
+    "40 points - Login to buy"
+  ],
+  "Feliksior": [
+    "Feliksior",
+    "202 RP",
+    "40 points - Login to buy"
+  ],
+  "Hootyea": [
+    "Hootyea",
+    "202 RP",
+    "40 points - Login to buy"
+  ],
+  "Suarezon": [
+    "Suarezon",
+    "203 Knight",
+    "40 points - Login to buy"
+  ],
+  "Serwaxx": [
+    "Serwaxx",
+    "201 Knight",
+    "40 points - Login to buy"
+  ],
+  "Monna": [
+    "Monna",
+    "201 Knight",
+    "40 points - Login to buy"
+  ],
+  "Mordeczka Wieczoru": [
+    "Mordeczka Wieczoru",
+    "201 Knight",
+    "40 points - Login to buy"
+  ],
+  "Morelka": [
+    "Morelka",
+    "201 Knight",
+    "40 points - Login to buy"
+  ],
+  "Anaelka": [
+    "Anaelka",
+    "201 Knight",
+    "40 points - Login to buy"
+  ],
+  "Vix": [
+    "Vix",
+    "201 Knight",
+    "40 points - Login to buy"
+  ],
+  "Testar": [
+    "Testar",
+    "201 Knight",
     "40 points - Login to buy"
   ],
   "Testoviron": [
@@ -186,11 +186,6 @@
   ],
   "Africano": [
     "Africano",
-    "203 Knight",
-    "40 points - Login to buy"
-  ],
-  "Suarezon": [
-    "Suarezon",
     "203 Knight",
     "40 points - Login to buy"
   ],
