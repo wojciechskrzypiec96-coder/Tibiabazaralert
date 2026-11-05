@@ -19,9 +19,9 @@
     "211 Sorc",
     "52 points - Login to buy"
   ],
-  "Sir Elder Druid": [
-    "Sir Elder Druid",
-    "208 Druid",
+  "Sir Elite Knight": [
+    "Sir Elite Knight",
+    "208 Sorc",
     "48 points - Login to buy"
   ],
   "Sir Master Sorcerer": [
@@ -29,9 +29,9 @@
     "208 Sorc",
     "48 points - Login to buy"
   ],
-  "Sir Elite Knight": [
-    "Sir Elite Knight",
-    "208 Sorc",
+  "Sir Elder Druid": [
+    "Sir Elder Druid",
+    "208 Druid",
     "48 points - Login to buy"
   ],
   "Xavis": [
@@ -79,19 +79,14 @@
     "207 Druid",
     "41 points - Login to buy"
   ],
-  "Nagasaki": [
-    "Nagasaki",
-    "202 Knight",
-    "40 points - Login to buy"
-  ],
-  "Kurumi": [
-    "Kurumi",
-    "202 Knight",
-    "40 points - Login to buy"
-  ],
   "Piko": [
     "Piko",
     "202 ED",
+    "40 points - Login to buy"
+  ],
+  "Nagasaki": [
+    "Nagasaki",
+    "202 Knight",
     "40 points - Login to buy"
   ],
   "Loopan": [
@@ -154,6 +149,11 @@
     "201 Knight",
     "40 points - Login to buy"
   ],
+  "Kurumi": [
+    "Kurumi",
+    "202 Knight",
+    "40 points - Login to buy"
+  ],
   "Testoviron": [
     "Testoviron",
     "202 Knight",
@@ -192,11 +192,6 @@
   "Lumaika": [
     "Lumaika",
     "203 Knight",
-    "40 points - Login to buy"
-  ],
-  "Wolny Budda": [
-    "Wolny Budda",
-    "204 Knight",
     "40 points - Login to buy"
   ],
   "Modliszka": [
