@@ -1,14 +1,4 @@
 {
-  "Magi Fuliz": [
-    "Magi Fuliz",
-    "309 RP",
-    "165 points - Login to buy"
-  ],
-  "Dajana": [
-    "Dajana",
-    "301 EK",
-    "160 points - Login to buy"
-  ],
   "Orvis": [
     "Orvis",
     "260 ED",
@@ -83,11 +73,6 @@
     "Lecz Sie Sam",
     "207 Druid",
     "41 points - Login to buy"
-  ],
-  "Lumaika": [
-    "Lumaika",
-    "203 Knight",
-    "40 points - Login to buy"
   ],
   "Testar": [
     "Testar",
@@ -196,6 +181,11 @@
   ],
   "Suarezon": [
     "Suarezon",
+    "203 Knight",
+    "40 points - Login to buy"
+  ],
+  "Lumaika": [
+    "Lumaika",
     "203 Knight",
     "40 points - Login to buy"
   ],
