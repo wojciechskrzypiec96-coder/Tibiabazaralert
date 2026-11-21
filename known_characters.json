@@ -1,9 +1,4 @@
 {
-  "John Wick": [
-    "John Wick",
-    "274 ED",
-    "85 points - Login to buy"
-  ],
   "Orvis": [
     "Orvis",
     "260 ED",
@@ -89,13 +84,8 @@
     "207 Druid",
     "42 points - Login to buy"
   ],
-  "Africano": [
-    "Africano",
-    "203 Knight",
-    "40 points - Login to buy"
-  ],
-  "Lumaika": [
-    "Lumaika",
+  "Suarezon": [
+    "Suarezon",
     "203 Knight",
     "40 points - Login to buy"
   ],
@@ -194,8 +184,13 @@
     "203 Knight",
     "40 points - Login to buy"
   ],
-  "Suarezon": [
-    "Suarezon",
+  "Africano": [
+    "Africano",
+    "203 Knight",
+    "40 points - Login to buy"
+  ],
+  "Lumaika": [
+    "Lumaika",
     "203 Knight",
     "40 points - Login to buy"
   ],
