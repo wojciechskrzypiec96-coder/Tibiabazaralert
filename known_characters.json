@@ -1,4 +1,9 @@
 {
+  "John Wick": [
+    "John Wick",
+    "274 ED",
+    "85 points - Login to buy"
+  ],
   "Orvis": [
     "Orvis",
     "260 ED",
@@ -8,6 +13,11 @@
     "Maurycy",
     "264 ED",
     "56 points - Login to buy"
+  ],
+  "Stratus": [
+    "Stratus",
+    "225 EK",
+    "55 points - Login to buy"
   ],
   "Exar Koren": [
     "Exar Koren",
@@ -59,6 +69,11 @@
     "208 Sorc",
     "49 points - Login to buy"
   ],
+  "Gibonek": [
+    "Gibonek",
+    "236 EK",
+    "49 points - Login to buy"
+  ],
   "Rakowy": [
     "Rakowy",
     "211 MS",
@@ -73,6 +88,16 @@
     "Lecz Sie Sam",
     "207 Druid",
     "42 points - Login to buy"
+  ],
+  "Africano": [
+    "Africano",
+    "203 Knight",
+    "40 points - Login to buy"
+  ],
+  "Lumaika": [
+    "Lumaika",
+    "203 Knight",
+    "40 points - Login to buy"
   ],
   "Testar": [
     "Testar",
@@ -169,18 +194,8 @@
     "203 Knight",
     "40 points - Login to buy"
   ],
-  "Africano": [
-    "Africano",
-    "203 Knight",
-    "40 points - Login to buy"
-  ],
   "Suarezon": [
     "Suarezon",
-    "203 Knight",
-    "40 points - Login to buy"
-  ],
-  "Lumaika": [
-    "Lumaika",
     "203 Knight",
     "40 points - Login to buy"
   ],
