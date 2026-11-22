@@ -9,11 +9,6 @@
     "264 ED",
     "56 points - Login to buy"
   ],
-  "Stratus": [
-    "Stratus",
-    "225 EK",
-    "55 points - Login to buy"
-  ],
   "Exar Koren": [
     "Exar Koren",
     "210 MS",
@@ -44,6 +39,11 @@
     "209 Knight",
     "49 points - Login to buy"
   ],
+  "Gibonek": [
+    "Gibonek",
+    "236 EK",
+    "49 points - Login to buy"
+  ],
   "Xavis": [
     "Xavis",
     "207 EK",
@@ -64,11 +64,6 @@
     "208 Sorc",
     "49 points - Login to buy"
   ],
-  "Gibonek": [
-    "Gibonek",
-    "236 EK",
-    "49 points - Login to buy"
-  ],
   "Rakowy": [
     "Rakowy",
     "211 MS",
@@ -84,8 +79,8 @@
     "207 Druid",
     "42 points - Login to buy"
   ],
-  "Suarezon": [
-    "Suarezon",
+  "Lumaika": [
+    "Lumaika",
     "203 Knight",
     "40 points - Login to buy"
   ],
@@ -189,8 +184,8 @@
     "203 Knight",
     "40 points - Login to buy"
   ],
-  "Lumaika": [
-    "Lumaika",
+  "Suarezon": [
+    "Suarezon",
     "203 Knight",
     "40 points - Login to buy"
   ],
