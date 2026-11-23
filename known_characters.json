@@ -1,9 +1,4 @@
 {
-  "Orvis": [
-    "Orvis",
-    "260 ED",
-    "65 points - Login to buy"
-  ],
   "Maurycy": [
     "Maurycy",
     "264 ED",
@@ -19,38 +14,13 @@
     "211 Sorc",
     "53 points - Login to buy"
   ],
-  "Wowis": [
-    "Wowis",
-    "209 Paladin",
-    "49 points - Login to buy"
-  ],
-  "Dev Onica": [
-    "Dev Onica",
-    "208 Druid",
-    "49 points - Login to buy"
-  ],
-  "Geneusz": [
-    "Geneusz",
-    "208 Knight",
-    "49 points - Login to buy"
-  ],
-  "Tufcio": [
-    "Tufcio",
-    "209 Knight",
-    "49 points - Login to buy"
-  ],
   "Gibonek": [
     "Gibonek",
     "236 EK",
     "49 points - Login to buy"
   ],
-  "Xavis": [
-    "Xavis",
-    "207 EK",
-    "49 points - Login to buy"
-  ],
-  "Sir Elite Knight": [
-    "Sir Elite Knight",
+  "Sir Master Sorcerer": [
+    "Sir Master Sorcerer",
     "208 Sorc",
     "49 points - Login to buy"
   ],
@@ -59,9 +29,34 @@
     "208 Druid",
     "49 points - Login to buy"
   ],
-  "Sir Master Sorcerer": [
-    "Sir Master Sorcerer",
+  "Sir Elite Knight": [
+    "Sir Elite Knight",
     "208 Sorc",
+    "49 points - Login to buy"
+  ],
+  "Xavis": [
+    "Xavis",
+    "207 EK",
+    "49 points - Login to buy"
+  ],
+  "Tufcio": [
+    "Tufcio",
+    "209 Knight",
+    "49 points - Login to buy"
+  ],
+  "Geneusz": [
+    "Geneusz",
+    "208 Knight",
+    "49 points - Login to buy"
+  ],
+  "Dev Onica": [
+    "Dev Onica",
+    "208 Druid",
+    "49 points - Login to buy"
+  ],
+  "Wowis": [
+    "Wowis",
+    "209 Paladin",
     "49 points - Login to buy"
   ],
   "Rakowy": [
