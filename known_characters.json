@@ -1,9 +1,4 @@
 {
-  "Bananowy": [
-    "Bananowy",
-    "240 RP",
-    "65 points - Login to buy"
-  ],
   "Maurycy": [
     "Maurycy",
     "264 ED",
@@ -24,14 +19,19 @@
     "211 Sorc",
     "53 points - Login to buy"
   ],
-  "Geneusz": [
-    "Geneusz",
-    "208 Knight",
-    "49 points - Login to buy"
-  ],
   "Tufcio": [
     "Tufcio",
     "209 Knight",
+    "49 points - Login to buy"
+  ],
+  "Dev Onica": [
+    "Dev Onica",
+    "208 Druid",
+    "49 points - Login to buy"
+  ],
+  "Geneusz": [
+    "Geneusz",
+    "208 Knight",
     "49 points - Login to buy"
   ],
   "Xavis": [
@@ -52,11 +52,6 @@
   "Sir Master Sorcerer": [
     "Sir Master Sorcerer",
     "208 Sorc",
-    "49 points - Login to buy"
-  ],
-  "Dev Onica": [
-    "Dev Onica",
-    "208 Druid",
     "49 points - Login to buy"
   ],
   "Wowis": [
@@ -84,13 +79,8 @@
     "207 Druid",
     "42 points - Login to buy"
   ],
-  "Africano": [
-    "Africano",
-    "203 Knight",
-    "40 points - Login to buy"
-  ],
-  "Lumaika": [
-    "Lumaika",
+  "Suarezon": [
+    "Suarezon",
     "203 Knight",
     "40 points - Login to buy"
   ],
@@ -189,8 +179,13 @@
     "203 Knight",
     "40 points - Login to buy"
   ],
-  "Suarezon": [
-    "Suarezon",
+  "Africano": [
+    "Africano",
+    "203 Knight",
+    "40 points - Login to buy"
+  ],
+  "Lumaika": [
+    "Lumaika",
     "203 Knight",
     "40 points - Login to buy"
   ],
