@@ -1,8 +1,18 @@
 {
+  "Bananowy": [
+    "Bananowy",
+    "240 RP",
+    "65 points - Login to buy"
+  ],
   "Maurycy": [
     "Maurycy",
     "264 ED",
     "56 points - Login to buy"
+  ],
+  "Rampage": [
+    "Rampage",
+    "221 MS",
+    "55 points - Login to buy"
   ],
   "Exar Koren": [
     "Exar Koren",
@@ -14,13 +24,23 @@
     "211 Sorc",
     "53 points - Login to buy"
   ],
-  "Gibonek": [
-    "Gibonek",
-    "236 EK",
+  "Geneusz": [
+    "Geneusz",
+    "208 Knight",
     "49 points - Login to buy"
   ],
-  "Sir Master Sorcerer": [
-    "Sir Master Sorcerer",
+  "Tufcio": [
+    "Tufcio",
+    "209 Knight",
+    "49 points - Login to buy"
+  ],
+  "Xavis": [
+    "Xavis",
+    "207 EK",
+    "49 points - Login to buy"
+  ],
+  "Sir Elite Knight": [
+    "Sir Elite Knight",
     "208 Sorc",
     "49 points - Login to buy"
   ],
@@ -29,24 +49,9 @@
     "208 Druid",
     "49 points - Login to buy"
   ],
-  "Sir Elite Knight": [
-    "Sir Elite Knight",
+  "Sir Master Sorcerer": [
+    "Sir Master Sorcerer",
     "208 Sorc",
-    "49 points - Login to buy"
-  ],
-  "Xavis": [
-    "Xavis",
-    "207 EK",
-    "49 points - Login to buy"
-  ],
-  "Tufcio": [
-    "Tufcio",
-    "209 Knight",
-    "49 points - Login to buy"
-  ],
-  "Geneusz": [
-    "Geneusz",
-    "208 Knight",
     "49 points - Login to buy"
   ],
   "Dev Onica": [
@@ -57,6 +62,11 @@
   "Wowis": [
     "Wowis",
     "209 Paladin",
+    "49 points - Login to buy"
+  ],
+  "Gibonek": [
+    "Gibonek",
+    "236 EK",
     "49 points - Login to buy"
   ],
   "Rakowy": [
@@ -73,6 +83,11 @@
     "Lecz Sie Sam",
     "207 Druid",
     "42 points - Login to buy"
+  ],
+  "Africano": [
+    "Africano",
+    "203 Knight",
+    "40 points - Login to buy"
   ],
   "Lumaika": [
     "Lumaika",
@@ -171,11 +186,6 @@
   ],
   "Green Saiyan": [
     "Green Saiyan",
-    "203 Knight",
-    "40 points - Login to buy"
-  ],
-  "Africano": [
-    "Africano",
     "203 Knight",
     "40 points - Login to buy"
   ],
